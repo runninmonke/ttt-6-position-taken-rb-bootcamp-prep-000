@@ -5,6 +5,7 @@ def position_taken?(board, position)
     puts "false"
     false
   else
+    puts "true"
     true
   end
 end
